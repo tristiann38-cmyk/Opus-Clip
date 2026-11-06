@@ -1,0 +1,6 @@
+{
+  "name": "OpusClip AI - Viral Video Repurposing Studio",
+  "description": "Turn long videos into viral shorts with 1 click. Features AI Virality Score™, dynamic animated captions, active speaker face tracking, interactive clip editor, and Gemini-powered viral hook generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
